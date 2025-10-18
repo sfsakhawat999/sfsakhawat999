@@ -1,1 +1,1 @@
-[![CoderLegion](http://localhost/coder-legion/cl_badge_logo.png)](https://localhost/coder-legion/user/James+Dayal)
+[![CoderLegion](https://devcl.kodlogs.net/cl_badge_logo.png)](https://devcl.kodlogs.net/user/James+Dayal)
